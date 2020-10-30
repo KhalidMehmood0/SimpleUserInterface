@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-image: url(back.jpg);
+}    
+
+.new{
+    background-image: url(back1.jpg);
+}
+.ref{
+background-image: url(back10.jpg);
+background-size: cover;
+}
+.ref1{
+    background-image: url(back3.jpg);
+}
